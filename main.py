@@ -169,4 +169,4 @@ async def help(ctx):
 	embed.add_field(name="$delete (cat_name) (name)", value="Delets the Value", inline=False)
 	await ctx.send(embed=embed)
 	pass
-cilent.run("OTU4NzQxOTQwODE0Mzc2OTcw.YkRwAw.egnwfmg6fyNq54sb60ghs3fDdsM")
+cilent.run("Paste Your Token")
